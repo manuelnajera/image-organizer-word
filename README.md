@@ -22,6 +22,11 @@ This tool contains a macro named `OrganizeImagesAndDelete` that:
 
 ⚠️ **Note:** The images are added to the new file immediately. If you don’t rename or move `OrganizedImages.docx`, it will be **overwritten the next time** the tool runs.
 
+## 📦 Downloads
+
+- [Download English Version](https://github.com/manuelnajera/image-organizer-word/releases/image-organizer-v1.0.0.docm)
+- [Descargar Versión en Español](https://github.com/manuelnajera/image-organizer-word/releases/organizar-imagenes-v1.0.0.docm)
+
 ## 🖥️ Platform Support
 
 - ✅ Optimized for **Microsoft Word on Windows**
@@ -30,6 +35,14 @@ This tool contains a macro named `OrganizeImagesAndDelete` that:
 ## 🧩 Enabling Macros
 
 You **must enable macros** when prompted in order to use the tool.
+
+## 🔒 Disclaimer
+
+Make sure you **want to delete** the images in the folder before running the macro. The deletion is automatic and cannot be undone.
+
+## 📷 Example Use Case
+
+> A client sends 15 images through WhatsApp. The cybercafé owner downloads them to a folder and runs this tool. In seconds, a neatly organized Word document is ready for printing, and the folder is clean.
 
 ## 🔐 License
 

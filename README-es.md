@@ -22,6 +22,10 @@ El archivo contiene una macro llamada `OrganizeImagesAndDelete` que:
 
 ⚠️ **Nota:** Las imágenes se insertan inmediatamente en el nuevo documento. Si no lo renombras o lo mueves, será **sobrescrito la próxima vez** que uses la herramienta.
 
+## 📦 Descargas
+- [Descargar Versión en Español](https://github.com/manuelnajera/image-organizer-word/releases/organizar-imagenes-v1.0.0.docm)
+- [Download English Version](https://github.com/manuelnajera/image-organizer-word/releases/image-organizer-v1.0.0.docm)
+
 ## 🖥️ Compatibilidad
 
 - ✅ Optimizado para **Microsoft Word en Windows**
@@ -30,6 +34,14 @@ El archivo contiene una macro llamada `OrganizeImagesAndDelete` que:
 ## 🧩 Habilitar Macros
 
 Al abrir el documento, debes **aceptar habilitar macros** para que la herramienta funcione correctamente.
+
+## 🔒 Aviso importante
+
+Asegurate de que **quieres eliminar** Las imágenes en la carpeta antes de ejecutar la macro. La eliminación es automática y no se puede deshacer.
+
+## 📷 Ejemplo de uso
+
+> Un cliente envía 15 imágenes a través de WhatsApp. El propietario del CyberCafé los descarga a una carpeta y ejecuta esta herramienta. En segundos, un documento de Word bien organizado está listo para la impresión, y la carpeta está limpia.
 
 ## 🔐 Licencia
 
