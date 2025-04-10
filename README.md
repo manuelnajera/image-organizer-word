@@ -1,5 +1,9 @@
 # 🖼️ Word Image Organizer (.docm)
 
+[![GitHub issues](https://img.shields.io/github/issues/manuelnajera/image-organizer-word)](https://github.com/manuelnajera/image-organizer-word/issues)
+[![GitHub license](https://img.shields.io/github/license/manuelnajera/image-organizer-word)](https://github.com/manuelnajera/image-organizer-word/blob/main/LICENSE.txt)
+[![GitHub Sponsors](https://shields.io/badge/Github%20Sponsors-Support%20me-blue?logo=GitHub+Sponsors)](https://github.com/sponsors/manuelnajera "Support me on GitHub Sponsors")
+
 This repository contains a Word Macro-Enabled Document (`.docm`) that automates the insertion and layout of multiple images from a folder directly into a Word document — perfect for quickly preparing print-ready layouts.
 
 🌐 [English](#readme) | [Español](https://github.com/manuelnajera/image-organizer-word/blob/main/README-es.md#readme)
