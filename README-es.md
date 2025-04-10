@@ -23,8 +23,8 @@ El archivo contiene una macro llamada `OrganizeImagesAndDelete` que:
 ⚠️ **Nota:** Las imágenes se insertan inmediatamente en el nuevo documento. Si no lo renombras o lo mueves, será **sobrescrito la próxima vez** que uses la herramienta.
 
 ## 📦 Descargas
-- [Descargar Versión en Español](https://github.com/manuelnajera/image-organizer-word/releases/organizar-imagenes-v1.0.0.docm)
-- [Download English Version](https://github.com/manuelnajera/image-organizer-word/releases/image-organizer-v1.0.0.docm)
+- [Descargar Versión en Español](https://github.com/manuelnajera/image-organizer-word/releases/tag/v1.0.0-es)
+- [Download English Version](https://github.com/manuelnajera/image-organizer-word/releases/tag/v1.0.0-en)
 
 ## 🖥️ Compatibilidad
 

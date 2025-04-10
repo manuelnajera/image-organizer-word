@@ -24,8 +24,8 @@ This tool contains a macro named `OrganizeImagesAndDelete` that:
 
 ## 📦 Downloads
 
-- [Download English Version](https://github.com/manuelnajera/image-organizer-word/releases/image-organizer-v1.0.0.docm)
-- [Descargar Versión en Español](https://github.com/manuelnajera/image-organizer-word/releases/organizar-imagenes-v1.0.0.docm)
+- [Download English Version](https://github.com/manuelnajera/image-organizer-word/releases/tag/v1.0.0-en)
+- [Descargar Versión en Español](https://github.com/manuelnajera/image-organizer-word/releases/tag/v1.0.0-es)
 
 ## 🖥️ Platform Support
 
